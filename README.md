@@ -1,2 +1,7 @@
 # brand-sentiment-analysis
-The project uses natural language processing techniques from different time years to solve the problem of determining the tone of text describing a particular brand.
+The following approaches will be considered:
+- Statistical approach;
+- RNN-based approach;
+- Transformer-based approach;
+
+At the end of each method I will summarize the results and highlight the advantages and disadvantages.
